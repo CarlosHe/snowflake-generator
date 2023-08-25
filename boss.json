@@ -1,0 +1,9 @@
+{
+	"name": "snowflake-generator",
+	"description": "Generate unique ID",
+	"version": "1.0.0",
+	"homepage": "https://github.com/CarlosHe/snowflake-generator",
+	"mainsrc": "./src",
+	"projects": [],
+	"dependencies": {}
+}
